@@ -1,0 +1,54 @@
+{
+  "nav": [
+    {
+      "name": "推荐",
+      "url": "/"
+    },
+    {
+      "name": "热点",
+      "url": "/hot"
+    },
+    {
+      "name": "图片",
+      "url": "/images"
+    },
+    {
+      "name": "科技",
+      "url": "/tech"
+    },
+    {
+      "name": "娱乐",
+      "url": "/entertainment"
+    },
+    {
+      "name": "游戏",
+      "url": "/game"
+    },
+    {
+      "name": "体育",
+      "url": "/sports"
+    },
+    {
+      "name": "汽车",
+      "url": "/car"
+    },
+    {
+      "name": "财经",
+      "url": "/finance"
+    },
+    {
+      "name": "搞笑",
+      "url": "/funny"
+    }
+  ],
+  "children_nav": [
+    {
+      "name": "军事",
+      "url": "/military"
+    },
+    {
+      "name": "国际",
+      "url": "/world"
+    }
+  ]
+}
