@@ -55,6 +55,7 @@ class Home extends Component {
                                 {
                                     this.props.list.map((item, index) => {
                                         return <List article={item} key={index} index={index}
+                                                     deleteItem={this.handleListDelete.bind(this)}
                                         />
                                     })
                                 }
